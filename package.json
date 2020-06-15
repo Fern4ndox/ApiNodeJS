@@ -1,0 +1,23 @@
+{
+  "name": "api-res-node",
+  "version": "1.0.0",
+  "description": "Prueba API-REST ",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fern4ndox/ApiNodeJS.git"
+  },
+  "author": "Fern4ndox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fern4ndox/ApiNodeJS/issues"
+  },
+  "homepage": "https://github.com/Fern4ndox/ApiNodeJS#readme"
+}
